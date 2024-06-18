@@ -1,8 +1,8 @@
 ## 
 
-# Hi there 👋🏻, I'm Vikram
+#                                                                           Hi there 👋🏻, I'm Vikram
 
-I hold a degree in Computer Science and am an aspiring and adaptable software and web developer. I am a tech enthusiast with strong communication skills, passionate about working with dynamic teams to enhance my knowledge and expertise. I excel in developing web projects and continuously seek opportunities to grow professionally.
+###I hold a degree in Computer Science and am an aspiring and adaptable software and web developer. I am a tech enthusiast with strong communication skills, passionate about working with ###dynamic teams to enhance my knowledge and expertise. I excel in developing web projects and continuously seek opportunities to grow professionally.
 
 ### Skills and Technologies:
 #### Frameworks/Libraries:
@@ -33,5 +33,5 @@ I hold a degree in Computer Science and am an aspiring and adaptable software an
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKRAM067&show_icons=true&theme=radical)
 

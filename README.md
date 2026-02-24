@@ -117,7 +117,4 @@ ai_interests = {
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00D9FF&style=flat" alt="profile views" />
-
-*"The best model is the one that ships."* 🚀
 </div>
